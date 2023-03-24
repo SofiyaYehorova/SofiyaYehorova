@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 <br />
 
 **Languages and Tools:**
+
 <a href="https://github.com/SofiyaYehorova/icons/blob/master/skills/intellig.jpeg">
 <img height="25" title="IntelliJIDEA" src="https://github.com/SofiyaYehorova/icons/blob/master/skills/intellig.jpeg">
 </a>
@@ -49,10 +50,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/SofiyaYehorova/icons/blob/master/skills/css.png">
 <img height="25" title="CSS" src="https://github.com/SofiyaYehorova/icons/blob/master/skills/css.png">
 </a>
-
-<!-- <a href="https://github.com/SofiyaYehorova/icons/blob/master/skills/VisualStudioCode.png">
-  <img height="25" title="VSC" src="https://github.com/SofiyaYehorova/icons/blob/master/skills/VisualStudioCode.png">
-</a> -->
 <a href="https://github.com/SofiyaYehorova/icons/blob/master/skills/js.png">
   <img height="25" title="JavaScript" src="https://github.com/SofiyaYehorova/icons/blob/master/skills/js.png">
 </a>
@@ -62,30 +59,34 @@ Here are some ideas to get you started:
 <a href="https://github.com/SofiyaYehorova/icons/blob/master/skills/nodejs.png">
   <img height="25" title="NodeJs" src="https://github.com/SofiyaYehorova/icons/blob/master/skills/nodejs.png">
 </a>
-
-[//]: # (<a href="https://github.com/feden2906/icons/blob/main/skils/NodeJS.png">)
-
-[//]: # (  <img height="25" title="NestJs" src="https://github.com/feden2906/icons/blob/main/skils/nestjs.png">)
-
-[//]: # (</a>)
 <a href="https://github.com/SofiyaYehorova/icons/blob/master/skills/mongo.png">
   <img height="25" title="MongoDB" src="https://github.com/SofiyaYehorova/icons/blob/master/skills/mongo.png">
 </a>
 <a href="https://github.com/SofiyaYehorova/icons/blob/master/skills/mySQL.png">
   <img height="25" title="MySQL" src="https://github.com/SofiyaYehorova/icons/blob/master/skills/mySQL.png">
 </a>
-
-[//]: # (<a href="https://github.com/SofiyaYehorova/icons/blob/main/skils/docker.png">)
-
-[//]: # (  <img height="25" title="Docker" src="https://github.com/SofiyaYehorova/icons/blob/main/skils/docker.png">)
-
-[//]: # (</a>)
 <a href="https://github.com/SofiyaYehorova/icons/blob/master/skills/react.png">
   <img height="25" title="React" src="https://github.com/SofiyaYehorova/icons/blob/master/skills/react.png">
 </a>
 <a href="https://github.com/SofiyaYehorova/icons/blob/master/skills/redux.png">
   <img height="25" title="Redux" src="https://github.com/SofiyaYehorova/icons/blob/master/skills/redux.png">
 </a>
+<!-- <a href="https://github.com/SofiyaYehorova/icons/blob/master/skills/VisualStudioCode.png">
+  <img height="25" title="VSC" src="https://github.com/SofiyaYehorova/icons/blob/master/skills/VisualStudioCode.png">
+</a> -->
+[//]: # (<a href="https://github.com/feden2906/icons/blob/main/skils/NodeJS.png">)
+
+[//]: # (  <img height="25" title="NestJs" src="https://github.com/feden2906/icons/blob/main/skils/nestjs.png">)
+
+[//]: # (</a>)
+
+
+[//]: # (<a href="https://github.com/SofiyaYehorova/icons/blob/main/skils/docker.png">)
+
+[//]: # (  <img height="25" title="Docker" src="https://github.com/SofiyaYehorova/icons/blob/main/skils/docker.png">)
+
+[//]: # (</a>)
+
 
 [//]: # (<a href="https://github.com/feden2906/icons/blob/main/skils/Angular.png">)
 
