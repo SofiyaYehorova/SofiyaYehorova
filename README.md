@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 [//]: # (  <img align="left" alt="Facebook" width="24px" src="https://github.com/SofiyaYehorova/icons/blob/main/facebook.png" />)
 
 [//]: # (</a>)
-<a href="#">
+<a href="sofiya-yehorova">
   <img title="sofiya-yehorova" align="left" alt="Skype" width="24px" src="https://github.com/SofiyaYehorova/icons/blob/master/contacts/skype.png" />
 </a>
 <a href="mailto:yehorova66@gmail.com">
