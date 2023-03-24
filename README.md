@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 [//]: # (  <img align="left" alt="Facebook" width="24px" src="https://github.com/SofiyaYehorova/icons/blob/main/facebook.png" />)
 
 [//]: # (</a>)
-<a href="">
+<a href="#">
   <img title="sofiya-yehorova" align="left" alt="Skype" width="24px" src="https://github.com/SofiyaYehorova/icons/blob/master/contacts/skype.png" />
 </a>
-<a href="yehorova66@gmail.com">
+<a href="mailto:yehorova66@gmail.com">
   <img align="left" alt="Mail" width="24px" src="https://github.com/SofiyaYehorova/icons/blob/master/contacts/gmail1.png" />
 </a>
 
