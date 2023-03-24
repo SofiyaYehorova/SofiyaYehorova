@@ -71,11 +71,17 @@ Here are some ideas to get you started:
 <a href="https://github.com/SofiyaYehorova/icons/blob/master/skills/redux.png">
   <img height="25" title="Redux" src="https://github.com/SofiyaYehorova/icons/blob/master/skills/redux.png">
 </a>
-<!-- <a href="https://github.com/SofiyaYehorova/icons/blob/master/skills/VisualStudioCode.png">
-  <img height="25" title="VSC" src="https://github.com/SofiyaYehorova/icons/blob/master/skills/VisualStudioCode.png">
-</a> -->
+<a href="https://github.com/SofiyaYehorova/icons/blob/master/skills/npm.png">
+  <img height="25" title="npm" src="https://github.com/SofiyaYehorova/icons/blob/master/skills/npm.png">
+</a>
+
 [//]: # (<a href="https://github.com/feden2906/icons/blob/main/skils/NodeJS.png">)
 
+[//]: # (<!-- <a href="https://github.com/SofiyaYehorova/icons/blob/master/skills/VisualStudioCode.png">)
+
+[//]: # (  <img height="25" title="VSC" src="https://github.com/SofiyaYehorova/icons/blob/master/skills/VisualStudioCode.png">)
+
+[//]: # (</a> -->)
 [//]: # (  <img height="25" title="NestJs" src="https://github.com/feden2906/icons/blob/main/skils/nestjs.png">)
 
 [//]: # (</a>)
@@ -103,12 +109,11 @@ Here are some ideas to get you started:
 [//]: # (  <img height="25" title="yarn" src="https://github.com/feden2906/icons/blob/main/skils/yarn.png">)
 
 [//]: # (</a>)
-<a href="https://github.com/SofiyaYehorova/icons/blob/master/skills/npm.png">
-  <img height="25" title="npm" src="https://github.com/SofiyaYehorova/icons/blob/master/skills/npm.png">
-</a>
 
-<br />
-<br />
+
+[//]: # (<br />)
+
+[//]: # (<br />)
 
 [//]: # (**Activity for the last week :**)
 
