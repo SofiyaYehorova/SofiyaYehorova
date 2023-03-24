@@ -18,19 +18,22 @@ Here are some ideas to get you started:
 ### Connect with me:
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25">
 <a href=https://www.linkedin.com/in/sofiya-yehorova-125700216/>
-  <img align="left" alt="Linkdin" width="24px" src="https://github.com/SofiyaYehorova/icons/blob/main/linkedin.png" />
+  <img align="left" alt="Linkdin" width="24px" src="https://github.com/SofiyaYehorova/icons/blob/master/contacts/linkedin.png" />
 </a>
 <a href="https://t.me/@SofiyaYehorova">
-  <img align="left" alt="Telegram" width="24px" src="https://github.com/SofiyaYehorova/icons/blob/main/telegram.png" />
+  <img align="left" alt="Telegram" width="24px" src="https://github.com/SofiyaYehorova/icons/blob/master/contacts/telegram.jpeg" />
 </a>
-<a href="https://www.facebook.com/sofiya.yehorova">
-  <img align="left" alt="Facebook" width="24px" src="https://github.com/SofiyaYehorova/icons/blob/main/facebook.png" />
-</a>
+
+[//]: # (<a href="https://www.facebook.com/sofiya.yehorova">)
+
+[//]: # (  <img align="left" alt="Facebook" width="24px" src="https://github.com/SofiyaYehorova/icons/blob/main/facebook.png" />)
+
+[//]: # (</a>)
 <a href="">
-  <img title="sofiya-yehorova" align="left" alt="Skype" width="24px" src="https://github.com/SofiyaYehorova/icons/blob/main/skype.png" />
+  <img title="sofiya-yehorova" align="left" alt="Skype" width="24px" src="https://github.com/SofiyaYehorova/icons/blob/master/contacts/skype.png" />
 </a>
 <a href="yehorova66@gmail.com">
-  <img align="left" alt="Mail" width="24px" src="https://github.com/SofiyaYehorova/icons/blob/main/gmail.png" />
+  <img align="left" alt="Mail" width="24px" src="https://github.com/SofiyaYehorova/icons/blob/master/contacts/gmail.png" />
 </a>
 
 <br />
