@@ -1,4 +1,4 @@
-### Hi there 👋, MY NAME IS SOFIYA AND I'M FULL STUCK DEVELOPER
+### Hi there 👋, MY NAME IS SOFIYA AND I'M FULL STACK DEVELOPER
 
 - 🌱 I’m currently learning NODE.JS
 <!--
