@@ -75,6 +75,13 @@ Here are some ideas to get you started:
   <img height="25" title="npm" src="https://github.com/SofiyaYehorova/icons/blob/master/skills/npm.png">
 </a>
 
+<br/>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SofiyaYehorova)
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SofiyaYehorova)
+
 [//]: # (<a href="https://github.com/feden2906/icons/blob/main/skils/NodeJS.png">)
 
 [//]: # (<!-- <a href="https://github.com/SofiyaYehorova/icons/blob/master/skills/VisualStudioCode.png">)
