@@ -1,6 +1,6 @@
 ### Hi there 👋, MY NAME IS SOFIYA AND I'M FULL STACK DEVELOPER
 
-- 🌱 I’m currently learning DJANGO_REST_FRAMEWORK
+- 🌱 I’m currently learning JAVA CORE
 <!--
 **SofiyaYehorova/SofiyaYehorova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
