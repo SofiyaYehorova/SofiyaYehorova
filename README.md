@@ -1,6 +1,6 @@
 ### Hi there 👋, MY NAME IS SOFIYA AND I'M FULL STACK DEVELOPER
 
-- 🌱 I’m currently learning JAVA SPRING BOOT
+- 🌱 I’m currently write pjoject for shop. My stack : Python (DRF), MySQL, React.ts
 <!--
 **SofiyaYehorova/SofiyaYehorova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
